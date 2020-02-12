@@ -1,0 +1,288 @@
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\Emlak.dll.config
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\Emlak.dll
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\Emlak.pdb
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\csc.exe
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\csc.exe.config
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\csc.rsp
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\csi.exe
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\csi.exe.config
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\csi.rsp
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\System.AppContext.dll
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\System.Console.dll
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\System.IO.Compression.dll
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\System.Security.Claims.dll
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\System.ValueTuple.dll
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\vbc.exe
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\vbc.exe.config
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\vbc.rsp
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\VBCSCompiler.exe
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACAR\Desktop\Emlak\Emlak\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACAR\Desktop\Emlak\Emlak\obj\Debug\Emlak.csproj.CoreCompileInputs.cache
+C:\Users\ACAR\Desktop\Emlak\Emlak\obj\Debug\Emlak.csproj.CopyComplete
+C:\Users\ACAR\Desktop\Emlak\Emlak\obj\Debug\Emlak.dll
+C:\Users\ACAR\Desktop\Emlak\Emlak\obj\Debug\Emlak.pdb
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\Emlak.dll.config
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\Emlak.dll
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\Emlak.pdb
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\csc.exe
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\csc.exe.config
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\csc.rsp
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\csi.exe
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\csi.exe.config
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\csi.rsp
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\System.AppContext.dll
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\System.Console.dll
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\System.IO.Compression.dll
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\System.Security.Claims.dll
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\System.ValueTuple.dll
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\vbc.exe
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\vbc.exe.config
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\vbc.rsp
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\VBCSCompiler.exe
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\obj\Debug\Emlak.csprojAssemblyReference.cache
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\obj\Debug\Emlak.csproj.CoreCompileInputs.cache
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\obj\Debug\Emlak.csproj.CopyComplete
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\obj\Debug\Emlak.dll
+C:\Users\ACAR\Desktop\Buseİrem\Emlak\Emlak\obj\Debug\Emlak.pdb
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\Emlak.dll.config
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\Emlak.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\Emlak.pdb
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\csc.exe
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\csc.exe.config
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\csc.rsp
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\csi.exe
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\csi.exe.config
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\csi.rsp
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\System.AppContext.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\System.Console.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\System.IO.Compression.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\System.Security.Claims.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\System.ValueTuple.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\vbc.exe
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\vbc.exe.config
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\vbc.rsp
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\VBCSCompiler.exe
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\obj\Debug\Emlak.csprojAssemblyReference.cache
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\obj\Debug\Emlak.csproj.CoreCompileInputs.cache
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\obj\Debug\Emlak.csproj.CopyComplete
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\obj\Debug\Emlak.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Buseİrem\Emlak\Emlak\obj\Debug\Emlak.pdb
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\Emlak.dll.config
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\Emlak.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\Emlak.pdb
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\csc.exe
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\csc.exe.config
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\csc.rsp
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\csi.exe
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\csi.exe.config
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\csi.rsp
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.AppContext.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.Console.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.Security.Claims.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\vbc.exe
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\vbc.exe.config
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\vbc.rsp
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\obj\Debug\Emlak.csprojAssemblyReference.cache
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\obj\Debug\Emlak.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\obj\Debug\Emlak.csproj.CopyComplete
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\obj\Debug\Emlak.dll
+C:\Users\Mustafa Acar\Desktop\SAÜ\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\obj\Debug\Emlak.pdb
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\Emlak.dll.config
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\Emlak.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\Emlak.pdb
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\csc.exe
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\csc.exe.config
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\csc.rsp
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\csi.exe
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\csi.exe.config
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\csi.rsp
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.AppContext.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.Console.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.IO.Compression.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.Security.Claims.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.ValueTuple.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\vbc.exe
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\vbc.exe.config
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\vbc.rsp
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\VBCSCompiler.exe
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\obj\Debug\Emlak.csprojAssemblyReference.cache
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\obj\Debug\Emlak.csproj.CopyComplete
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\obj\Debug\Emlak.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Buseİrem\Emlak\Emlak\obj\Debug\Emlak.pdb

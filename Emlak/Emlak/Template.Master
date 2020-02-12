@@ -1,0 +1,51 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Template.master.cs" Inherits="Emlak.Template" %>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+	<title>Emlak Takip</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<link rel="stylesheet" href="assets/css/main.css" />
+</head>
+<body>
+<form runat="server">
+    <nav id="menu">
+		    <ul class="links">
+			    <li><a href="Default.aspx">Anasayfa</a></li>
+                <li><a href="OturumAc.aspx">Oturum Aç</a></li>
+                <li><a href="KayitOl.aspx">Kayıt Ol</a></li>
+                <li><a href="EmlakKayit.aspx">Emlak Kayıt</a></li>
+                <li><a href="EmlakSil.aspx">Emlak Sil</a></li>
+                <li><a href="EmlakArama.aspx">Emlak Ara</a></li>
+			    <li><a href="Hakkimizda.aspx">Hakkımızda</a></li>
+			    <li><a href="Iletisim.aspx">İletişim</a></li>
+                <li><a href="OturumKapat.aspx">Oturumu Kapat</a></li>
+		    </ul>
+	</nav>
+
+    <asp:ContentPlaceHolder ID="MainContent" runat="server">
+
+    </asp:ContentPlaceHolder>
+
+	<footer id="footer">
+		<div class="copyright">
+			<ul class="icons">
+				<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+				<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+				<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+				<li><a href="#" class="icon fa-snapchat"><span class="label">Snapchat</span></a></li>
+			</ul>
+			<p>&copy; Emlak Takip. Tüm Hakları Saklıdır. KOÜ PROJESİDİR - İREM DANACI.</p>
+		</div>
+	</footer>
+    <script src="assets/js/jquery.min.js"></script>
+	<script src="assets/js/jquery.scrolly.min.js"></script>
+	<script src="assets/js/jquery.scrollex.min.js"></script>
+	<script src="assets/js/skel.min.js"></script>
+	<script src="assets/js/util.js"></script>
+	<script src="assets/js/main.js"></script>
+</form>
+</body>
+</html>
